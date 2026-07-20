@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend: HTML, CSS, JavaScript, DOM manipulation, responsive design**
 
-- 📫 How to reach me **dreamandachievetoday@gmail.com**
+- 📫 How to reach me **SORIM.SWE@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/sorim-tim](www.linkedin.com/in/sorim-tim)
 
