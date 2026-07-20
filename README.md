@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate with **other aspiring web developers on community projects**
 
-- 📝 I regularly write articles on [lifechasersjourneys.blogspot.com](lifechasersjourneys.blogspot.com)
-
 - 💬 Ask me about **Frontend: HTML, CSS, JavaScript, DOM manipulation, responsive design**
 
 - 📫 How to reach me **dreamandachievetoday@gmail.com**
